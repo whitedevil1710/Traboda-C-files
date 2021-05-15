@@ -1,2 +1,2 @@
 # Traboda C files
-## The C file for encoding XOR and  Caesar cipher
+## The C file for  XOR and  Caesar cipher
